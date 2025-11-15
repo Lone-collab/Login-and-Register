@@ -1,2 +1,2 @@
 # Login-and-Register
-login/register with the use of HTML, CSS, JAVASCRIPT, PHP, and MYSQL Database
+login/register with the use of CSS, JAVASCRIPT, PHP, and MYSQL Database
